@@ -1,9 +1,10 @@
-package com.example.service2;
+package com.example.service;
 
 import java.util.function.Supplier;
 import java.util.stream.Stream;
 
 import org.springframework.stereotype.Service;
+
 
 @Service
 public class MathService {
